@@ -1,0 +1,4 @@
+[build]
+  base = "Evan_Hub_V11"
+  publish = "."
+  functions = "netlify/functions"
